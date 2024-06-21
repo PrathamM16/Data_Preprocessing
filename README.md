@@ -1,4 +1,4 @@
-# Titanic Dataset Machine Learning Project
+# Titanic Dataset Machine Learning Data PreProcessing Techniques
 
 This project preprocesses the Titanic dataset for machine learning models using scikit-learn.
 
